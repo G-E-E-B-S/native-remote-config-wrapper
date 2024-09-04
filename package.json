@@ -1,0 +1,16 @@
+{
+  "name": "remote-config",
+  "version": "1.0.0",
+  "description": "Sdk for RemoteConfig",
+  "package_version": 2,
+  "main": "main.js",
+  "contributions": {
+    "asset-db": {
+      "mount": {
+        "path": "./scripts"
+      }
+    }
+  },
+  "main-menu": {},
+  "dependencies": {}
+}
